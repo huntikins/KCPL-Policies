@@ -5,8 +5,8 @@ sidebar_label: Small Business & Entrepreneurship
 ---
 
 
-# Small Business & Entrepreneurship 
-![Hadiza SaAadu](https://www.kclibrary.org/sites/default/files/Hadiza.png "Hadiza SaAadu")
+  ![Hadiza SaAadu](https://www.kclibrary.org/sites/default/files/Hadiza.png "Hadiza SaAadu")
+
 
 Our Small Business Engagement Specialist is here to help small businesses and entrepreneurs get connected to the resources and partners they need. We have books and electronic resources that will help you write a business plan, enhance your marketing, develop your staff, and network with local agencies and organizations that support entrepreneurship. Visit with our Small Business Engagement Specialist during the office hours listed below, or schedule a one-on-one appointment.
 
