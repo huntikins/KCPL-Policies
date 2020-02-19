@@ -13,9 +13,6 @@
 			"privacy007",
 			"privacy008",
 			],
-		"Collection Development Plan": [
-			
-			],
 		"Internal Policies": [
 			"001",
 			"002",
@@ -40,6 +37,6 @@
 		"Community Reference": [
 			"comref-sbe"
 		]
-	},
+	}
 	
 }
