@@ -10,6 +10,9 @@
 			"bylaws007",
 			"bylaws008"
 		],
+		"Collection Development": [
+			"coldev"
+		],
 		"Privacy & Information Access": [
 			"privacy001",
 			"privacy002",
@@ -50,9 +53,6 @@
 			"106",
 			"107",
 			"108"
-		],
-		"Collection Development": [
-			"coldev"
 		],
 		"Community Reference": [
 			"comref-sbe"
