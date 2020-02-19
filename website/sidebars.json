@@ -25,7 +25,9 @@
 			"comref-sbe"
 		]
 	},
-	"Bylaws": {},
+	"Bylaws": {
+		"bylaws"
+	},
 	"Privacy & Information Access": {},
 	"Collection Development Plan": {}
 }
