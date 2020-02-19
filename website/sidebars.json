@@ -3,6 +3,12 @@
 		"Bylaws": [
 			"bylaws"
 		],
+		"Privacy & Information Access": [
+			
+			],
+		"Collection Development Plan": [
+			
+			],
 		"Internal Policies": [
 			"001",
 			"002",
@@ -28,6 +34,5 @@
 			"comref-sbe"
 		]
 	},
-	"Privacy & Information Access": {},
-	"Collection Development Plan": {}
+	
 }
