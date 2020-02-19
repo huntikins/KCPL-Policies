@@ -1,5 +1,8 @@
 {
 	"Policies": {
+		"Bylaws": [
+			"bylaws"
+		],
 		"Internal Policies": [
 			"001",
 			"002",
@@ -24,9 +27,6 @@
 		"Community Reference": [
 			"comref-sbe"
 		]
-	},
-	"Bylaws": {
-		"bylaws"
 	},
 	"Privacy & Information Access": {},
 	"Collection Development Plan": {}
