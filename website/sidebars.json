@@ -1,7 +1,14 @@
 {
 	"Policies": {
 		"Bylaws": [
-			"bylaws"
+			"bylaws001",
+			"bylaws002",
+			"bylaws003",
+			"bylaws004",
+			"bylaws005",
+			"bylaws006",
+			"bylaws007",
+			"bylaws008"
 		],
 		"Privacy & Information Access": [
 			"privacy001",
